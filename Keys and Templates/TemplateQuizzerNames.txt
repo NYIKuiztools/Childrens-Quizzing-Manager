@@ -1,0 +1,12 @@
+!Pyrrhia|Sand Wings|Mud Wings|Sky Wings|Sea Wings|Night Wings?
+!Plantalla|Leaf Wings|Hive Wings|The Queen|Book Reading Monkys|Rain Wings?
+
+! to start team list
+First entry is team name
+Second entry is quizzer one
+Third entry is quizzer two
+Fourth entry is quizzer three
+Fivth entry is quizzer four
+Sixth entry is quizzer five
+? to end team list
+| to seperate entries. 

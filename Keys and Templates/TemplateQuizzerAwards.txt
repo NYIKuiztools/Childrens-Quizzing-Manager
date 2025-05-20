@@ -1,0 +1,26 @@
+Amt of Perfect in Red | Amt of Gold in Red | Amt of Silver in Red | Amt of Bronze in Red | Amt of SR in Red
+Amt of Perfect in Blue | Amt of Gold in Blue | Amt of Silver in Blue | Amt of Bronze in Blue | Amt of SR in Blue
+Amt of Perfect Total | Amt of Gold Total | Amt of Silver Total | Amt of Bronze Total | Amt of SR Total
+
+Red Perfect Names
+
+Red Gold Names
+
+Red Silver Names
+
+Red Bronze Names
+
+Red Special Recongnition Names
+
+
+Blue Perfect Names
+
+Blue Gold Names
+
+Blue Silver Names
+
+Blue Bronze Names
+
+Blue Special Recongnition Names
+
+Perfect Memory Names
