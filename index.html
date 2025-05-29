@@ -3,6 +3,7 @@
 <head>
 	<title>Children's Quizzing Manager</title>
 	<link rel="stylesheet" href="main.css">
+	<script src="index.js" defer></script>
 </head>
 
 <body>
@@ -13,14 +14,21 @@
 	</header>
 <!-- main content -->	
 	<div>
-		<label id="text1">Who are you?</label>
-		<select>
-			<option value="Quiz Master">Quiz Master</option>
-			<option value="Score Keeper">Score Keeper</option>
-			<option value="Spectator">Spectator</option>
-			<option value="Stats">Stats Manager</option>
-			<option value="Admin">Admin</option>
-		</select>
+		<form>
+			<select id="personId">
+				<option value = "" selected disabled hidden>Select your role</option>
+				<option value="Coach">Coach</option>
+				<option value="QM">Quiz Master</option>
+				<option value="Score">Score Keeper</option>
+				<option value="Spectator">Spectator</option>
+				<option value="Stats">Stats Manager</option>
+				<option value="Admin">Admin</option>
+				<option value="other">Other</option>
+			</select>
+		</form>
+		<div>
+			<input type="button" value="Next" onclick="window.location=document.getElementById('personId').value;">
+		</div>
 	</div>
 </body>
 </html>
