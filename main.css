@@ -38,12 +38,12 @@ div {
 	background-color: darkgray;
 }
 select {
-	width: 85%;
+	width: 65%;
 	height: 50px;
 	font-size: 170%;
 
 	position: relative;
-	margin-left: 7.5%;
+	margin-left: 17.5%;
 	margin-top: 20px;
 	margin-bottom: 25px;
 }
@@ -68,5 +68,5 @@ div div {
 
 	border-style: solid;
 	border-width: 3px;
-	border-radius: 5%;
+	border-radius: 10px;
 }
