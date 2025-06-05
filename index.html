@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
 	<title>Children's Quizzing Manager</title>
+<!-- Imports -->
 	<link rel="stylesheet" href="main.css">
+	<script src="index.js"></script>
 </head>
 
 <body>
@@ -15,7 +17,6 @@
 	<div>
 		<form>
 			<select id="personId">
-				<option value ="" selected disabled hidden>Select your role</option>
 				<option value="qm">Quiz Master</option>
 				<option value="coach">Coach</option>
 				<option value="score">Score Keeper</option>
@@ -24,10 +25,8 @@
 				<option value="admin">Admin</option>
 				<option value="other">Other</option>
 			</select>
+			<input type="button", value="Next", id="nextButton">
 		</form>
-		<div>
-			<input type="button" value="Next" onclick="window.location=document.getElementById('personId').value;">
-		</div>
 	</div>
 </body>
 </html>
